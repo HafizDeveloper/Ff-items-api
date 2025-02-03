@@ -1,6 +1,2 @@
 requirements.txt
-commit  "Add flask and gunicorn to requirements"
-push origin main
-requirements.txt
-commit  "Fix invalid line in requirements.txt"
-push origin main
+commit "Add flask and gunicorn to requirements"
