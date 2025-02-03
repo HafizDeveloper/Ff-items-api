@@ -1,2 +1,1 @@
-echo "flask" > requirements.txt
-echo "gunicorn" >> requirements.txt
+
