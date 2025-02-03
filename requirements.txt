@@ -1,2 +1,2 @@
-commit "Add flask and gunicorn to requirements"
-push origin main
+flask
+gunicorn
