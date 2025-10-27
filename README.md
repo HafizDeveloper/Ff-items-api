@@ -53,5 +53,5 @@ Pastikan file seperti app.py dan requirements.txt ada di repository. Sebagai con
 
 Setelah kamu memastikan bahwa repository sudah tidak kosong dan kode sudah ter-upload ke GitHub, coba ulang deploy di Render dan periksa statusnya.
 
-Jika kamu masih mengalami masalah atau ada error lainnya, beri tahu aku!
+
 
